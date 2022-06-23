@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
-
-
-<h2 align="center"> ⚡  Stacks  ⚡ </h2>
-
 <div align="center">
+
+<h2> ⚡  Stacks  ⚡ </h2>
+
 <img alt="Java" src="https://img.shields.io/badge/Java-blue.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
 <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
@@ -18,4 +17,13 @@
 <br>
 <img alt="Eclipse" src="https://img.shields.io/badge/EclipseIDE-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
+<br><br><br>
+  
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shyeon-park&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyeon-park&layout=compact&theme=tokyonight)
+
 </div>
+
+
+
