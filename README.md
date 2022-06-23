@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<style>
-    body{
-        text-align: center;
-    }
-</style>
-</head>
-<body>
 ## ⚡  Tech Stacks  ⚡
 
 
@@ -23,5 +12,4 @@
 <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> <br>
 <img alt="Eclipse" src="https://img.shields.io/badge/EclipseIDE-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
-</body>
-</html>
+
