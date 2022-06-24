@@ -19,10 +19,6 @@
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"/>
 <br><br><br>
   
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shyeon-park&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyeon-park&layout=compact&theme=tokyonight)
-
 </div>
 
 
