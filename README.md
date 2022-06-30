@@ -25,6 +25,9 @@
 <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/> 
   
 </div>
+<br><br><br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 
 
