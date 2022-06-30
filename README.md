@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Songhyeon_Park&animation=scaleIn&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6ccad0&height=200&section=header&text=Songhyeon_Park&animation=scaleIn&fontSize=30)
 <div align="center">
 
 ##  :pushpin: Stacks  :pushpin:
@@ -27,7 +27,7 @@
 </div>
 <br><br><br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6ccad0&height=100&section=footer)
 
 
 
