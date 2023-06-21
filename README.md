@@ -25,7 +25,7 @@
 <br><br><br>
 
 
-##  :blue_book: Studying  :blue_book:
+##  :blue_book: Studying..  :blue_book:
 
 <img alt="Springboot" src="https://img.shields.io/badge/Spring boot-6DB33F.svg?&style=for-the-badge&logo=Springboot&logoColor=white"/>
 <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/> 
